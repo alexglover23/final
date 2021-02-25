@@ -1,1 +1,1 @@
-# final our project is a crowdsourcing platform for interior design. A user submits a design request, sharing a few details about ther budget and style preferences. Other users on the app contribute design ideas and earn a commission. Team: Lilianna Myers, Rakesh Mohanty, Alex Glover
+# final: our project is a crowdsourcing platform for interior design. A user submits a design request, sharing a few details about ther budget and style preferences. Other users on the app contribute design ideas and earn a commission. Team: Lilianna Myers, Rakesh Mohanty, Alex Glover
